@@ -1,0 +1,18 @@
+{
+  "title": "Shopping List",
+  "listContent": [
+    {"text": "Milk", "isChecked": true},
+    {"text": "Bread", "isChecked": false},
+    {"text": "Eggs", "isChecked": true},
+    {"text": "Butter", "isChecked": false},
+    {"text": "Cheese", "isChecked": false}
+  ],
+  "createdTimestampUsec": 1672531200000000,
+  "userEditedTimestampUsec": 1672704000000000,
+  "isTrashed": false,
+  "isArchived": false,
+  "isPinned": true,
+  "color": "YELLOW",
+  "labelList": ["Personal", "Shopping"],
+  "attachments": []
+}

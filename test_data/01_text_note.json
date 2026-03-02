@@ -1,0 +1,12 @@
+{
+  "title": "Welcome to KeepToMemos",
+  "textContentHtml": "<p>This is a sample Google Keep note for testing the migration tool.</p><p>It supports <strong>bold</strong>, <em>italic</em>, and <a href=\"https://example.com\">links</a>.</p><p>Features tested:</p><ul><li>HTML to Markdown conversion</li><li>Multiple paragraphs</li><li>Text formatting</li></ul>",
+  "createdTimestampUsec": 1672531200000000,
+  "userEditedTimestampUsec": 1672617600000000,
+  "isTrashed": false,
+  "isArchived": false,
+  "isPinned": false,
+  "color": "DEFAULT",
+  "labelList": ["Testing", "Sample"],
+  "attachments": []
+}

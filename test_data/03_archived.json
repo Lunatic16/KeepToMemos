@@ -1,0 +1,12 @@
+{
+  "title": "Archived Project Notes",
+  "textContentHtml": "<p>These are notes from an old project.</p><p>Status: <strong>Completed</strong></p>",
+  "createdTimestampUsec": 1640995200000000,
+  "userEditedTimestampUsec": 1672531200000000,
+  "isTrashed": false,
+  "isArchived": true,
+  "isPinned": false,
+  "color": "GRAY",
+  "labelList": ["Work", "Archive"],
+  "attachments": []
+}

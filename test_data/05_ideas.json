@@ -1,0 +1,12 @@
+{
+  "title": "Ideas Board",
+  "textContentHtml": "<p>Random ideas and inspiration:</p><ol><li>Build a migration tool</li><li>Add color preservation</li><li>Support label mapping</li></ol>",
+  "createdTimestampUsec": 1672531200000000,
+  "userEditedTimestampUsec": 1672790400000000,
+  "isTrashed": false,
+  "isArchived": false,
+  "isPinned": false,
+  "color": "RED",
+  "labelList": ["Ideas", "Projects"],
+  "attachments": []
+}

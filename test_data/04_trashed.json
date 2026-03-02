@@ -1,0 +1,12 @@
+{
+  "title": "Trashed Note",
+  "textContentHtml": "<p>This note was moved to trash and should be skipped during import.</p>",
+  "createdTimestampUsec": 1640995200000000,
+  "userEditedTimestampUsec": 1672531200000000,
+  "isTrashed": true,
+  "isArchived": false,
+  "isPinned": false,
+  "color": "DEFAULT",
+  "labelList": [],
+  "attachments": []
+}
